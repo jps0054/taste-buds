@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">TasteBuds</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_taste_buds">TasteBuds</string>
+    <string name="title_activity_indian1">Indian1</string>
+    <string name="title_activity_italian">Italian</string>
+
+</resources>
